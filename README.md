@@ -4,9 +4,12 @@
 
 * **Highlights:** Multi-point Story layout navigating through infection spikes and recovery rates.
 * **Feature:** Geographic heat maps and time-series line charts.
-* **Visuals:**
+* **Key Visuals:** 
 [COVID Overview](Images/covid_overview.png)
 [COVID Story Point](Images/covid_story.png)
+[COVID Donut Chart](Images/covid_donut.png)
+[COVID Summary](Images/covid_summary.png)
+[COVID Conclusion](Images/covid_conclusion.png)
 
 
 
